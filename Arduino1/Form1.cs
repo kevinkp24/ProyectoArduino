@@ -10,9 +10,11 @@ namespace Arduino1
     {
         SerialPort port;
         bool IsClosed = false;
+        private StreamWriter writer;
         public Form1()
         {
             InitializeComponent();
+            writer = new StreamWriter("datos.txt", true);
             port = new SerialPort();
             port.PortName = "COM3";
             port.BaudRate = 9600;
@@ -35,6 +37,7 @@ namespace Arduino1
 
         private void EscucharSerial()
         {
+            int contador, contadorDos, contadorDiez;
             while (!IsClosed)
             {
                 try
@@ -45,9 +48,9 @@ namespace Arduino1
 
                         string[] datosSeparados = cadena.Split(',');
 
-                        int contador = int.Parse(datosSeparados[0]);
-                        int contadorDos = int.Parse(datosSeparados[1]);
-                        int contadorDiez = int.Parse(datosSeparados[2]);
+                         contador = int.Parse(datosSeparados[0]);
+                         contadorDos = int.Parse(datosSeparados[1]);
+                         contadorDiez = int.Parse(datosSeparados[2]);
 
                         txtAlgo.Invoke(new MethodInvoker(delegate
                         {
@@ -74,6 +77,7 @@ namespace Arduino1
                         Console.WriteLine("El puerto está cerrado.");
                         break;
                     }
+                    writer.WriteLine($"Contador: {contador}, ContadorDos: {contadorDos}, ContadorDiez: {contadorDiez}");
                 }
                 catch (TimeoutException ex)
                 {
@@ -97,6 +101,11 @@ namespace Arduino1
             if (port.IsOpen)
             { 
                 port.Close();
+            }
+
+            if (writer != null)
+            {
+                writer.Close();
             }
         }
 

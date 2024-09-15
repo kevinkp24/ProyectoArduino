@@ -19,3 +19,14 @@ C:\Users\kevin\Documents\2024-1\Programacion lll\Softwares\EscrituraArduino_1\Ar
 C:\Users\kevin\Documents\2024-1\Programacion lll\Softwares\EscrituraArduino_1\Arduino1\obj\Debug\Arduino1.exe
 C:\Users\kevin\Documents\2024-1\Programacion lll\Softwares\EscrituraArduino_1\Arduino1\obj\Debug\Arduino1.pdb
 C:\Users\kevin\Documents\2024-1\Programacion lll\Softwares\EscrituraArduino_1\Arduino1\obj\Debug\Arduino1.GraficaArduinos.resources
+C:\Users\dilan\Source\Repos\ProyectoArduino\Arduino1\bin\Debug\Arduino1.exe.config
+C:\Users\dilan\Source\Repos\ProyectoArduino\Arduino1\bin\Debug\Arduino1.exe
+C:\Users\dilan\Source\Repos\ProyectoArduino\Arduino1\bin\Debug\Arduino1.pdb
+C:\Users\dilan\Source\Repos\ProyectoArduino\Arduino1\obj\Debug\Arduino1.csproj.AssemblyReference.cache
+C:\Users\dilan\Source\Repos\ProyectoArduino\Arduino1\obj\Debug\Arduino1.Form1.resources
+C:\Users\dilan\Source\Repos\ProyectoArduino\Arduino1\obj\Debug\Arduino1.GraficaArduinos.resources
+C:\Users\dilan\Source\Repos\ProyectoArduino\Arduino1\obj\Debug\Arduino1.Properties.Resources.resources
+C:\Users\dilan\Source\Repos\ProyectoArduino\Arduino1\obj\Debug\Arduino1.csproj.GenerateResource.cache
+C:\Users\dilan\Source\Repos\ProyectoArduino\Arduino1\obj\Debug\Arduino1.csproj.CoreCompileInputs.cache
+C:\Users\dilan\Source\Repos\ProyectoArduino\Arduino1\obj\Debug\Arduino1.exe
+C:\Users\dilan\Source\Repos\ProyectoArduino\Arduino1\obj\Debug\Arduino1.pdb
