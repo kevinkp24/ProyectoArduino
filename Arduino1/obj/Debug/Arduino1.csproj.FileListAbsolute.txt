@@ -1,0 +1,21 @@
+C:\Users\dilan\source\repos\EscrituraArduino_1\Arduino1\bin\Debug\Arduino1.exe.config
+C:\Users\dilan\source\repos\EscrituraArduino_1\Arduino1\bin\Debug\Arduino1.exe
+C:\Users\dilan\source\repos\EscrituraArduino_1\Arduino1\bin\Debug\Arduino1.pdb
+C:\Users\dilan\source\repos\EscrituraArduino_1\Arduino1\obj\Debug\Arduino1.csproj.AssemblyReference.cache
+C:\Users\dilan\source\repos\EscrituraArduino_1\Arduino1\obj\Debug\Arduino1.Form1.resources
+C:\Users\dilan\source\repos\EscrituraArduino_1\Arduino1\obj\Debug\Arduino1.Properties.Resources.resources
+C:\Users\dilan\source\repos\EscrituraArduino_1\Arduino1\obj\Debug\Arduino1.csproj.GenerateResource.cache
+C:\Users\dilan\source\repos\EscrituraArduino_1\Arduino1\obj\Debug\Arduino1.csproj.CoreCompileInputs.cache
+C:\Users\dilan\source\repos\EscrituraArduino_1\Arduino1\obj\Debug\Arduino1.exe
+C:\Users\dilan\source\repos\EscrituraArduino_1\Arduino1\obj\Debug\Arduino1.pdb
+C:\Users\kevin\Documents\2024-1\Programacion lll\Softwares\EscrituraArduino_1\Arduino1\bin\Debug\Arduino1.exe.config
+C:\Users\kevin\Documents\2024-1\Programacion lll\Softwares\EscrituraArduino_1\Arduino1\bin\Debug\Arduino1.exe
+C:\Users\kevin\Documents\2024-1\Programacion lll\Softwares\EscrituraArduino_1\Arduino1\bin\Debug\Arduino1.pdb
+C:\Users\kevin\Documents\2024-1\Programacion lll\Softwares\EscrituraArduino_1\Arduino1\obj\Debug\Arduino1.csproj.AssemblyReference.cache
+C:\Users\kevin\Documents\2024-1\Programacion lll\Softwares\EscrituraArduino_1\Arduino1\obj\Debug\Arduino1.Form1.resources
+C:\Users\kevin\Documents\2024-1\Programacion lll\Softwares\EscrituraArduino_1\Arduino1\obj\Debug\Arduino1.Properties.Resources.resources
+C:\Users\kevin\Documents\2024-1\Programacion lll\Softwares\EscrituraArduino_1\Arduino1\obj\Debug\Arduino1.csproj.GenerateResource.cache
+C:\Users\kevin\Documents\2024-1\Programacion lll\Softwares\EscrituraArduino_1\Arduino1\obj\Debug\Arduino1.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\2024-1\Programacion lll\Softwares\EscrituraArduino_1\Arduino1\obj\Debug\Arduino1.exe
+C:\Users\kevin\Documents\2024-1\Programacion lll\Softwares\EscrituraArduino_1\Arduino1\obj\Debug\Arduino1.pdb
+C:\Users\kevin\Documents\2024-1\Programacion lll\Softwares\EscrituraArduino_1\Arduino1\obj\Debug\Arduino1.GraficaArduinos.resources
