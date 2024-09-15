@@ -1,0 +1,6 @@
+# Ignorar archivos y carpetas de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
